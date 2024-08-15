@@ -1,51 +1,49 @@
 # AI-Case-Study
 
-# AI in Data Centers
+## AI in Data Centers
 
-## Overview and Origin
+## The Start of Accessible AI
 
-* Meta
+* **LLAMA 2** (Large Language Model Meta AI)
 
-* When was the company incorporated?
+* **Meta** was developed in 2004 then developed **LLAMA** in 2023 
 
-* Mark Zuckerberg and some others that sued him.
+* **Meta's** approach with **LLAMA 2** was to focus on making AI models that were more accessible to researchers and developers, rather than   just creating larger models.
 
-* How did the idea for the company (or project) come about?
+* The company was funded by them **facebook dollars**. 
 
-* How is the company funded? How much funding have they received?
+### Plans for a Large Consumer Base
 
-## Business Activities
+* **Meta** wants to make AI more accessible to the average consumer rather than an enterpise company. It can be used by companies with an open business license making it more broadly accessible. 
 
-* What specific problem is the company or project trying to solve?
+* They are able to do this mainly because of the amount of Data Centers that are being built. AI is only as good as the equipment it runs on. No expense is spared making these LLMs run efficiently. Its essentially thousands of computers acting as one all learning.  Cloud AI services will be a big thing if not already. The infrastructure is being built to support massive models being trained. 
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+### Who Needs This?
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* This is or can be used in many fields. Software developers, business startups, educators and students, it can also be used on the  enterprise level.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Hobbyist if you  want to experiment in AI model building or training.
 
-## Landscape
+* AI could help a lot of businesses be successful. Automating task, analyzing data, security.
 
-* What field is the company in?
+### How Has LLAMA 2 Helped me?
+* I ***have not used LLAMA 2*** personally but Ive probably worked on a server it will be on.
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+* This business has given me the ability to understand the hardware aspect of AI. What goes into making it run efficiently is a big one. I have seen how these servers are built, how they are cooled and how they get their power. 
 
-* What are the other major companies in this field?
+* If people are downloading and using LLAMA or LLAMA 2 then that means people are using their data centers which means Meta makes money.
 
-## Results
+* My company is at the forefront of all this new emerging technology. Its pretty wild learing everything that makes them run. Now itstime to learn how the programs work and how to program it. 
 
-* What has been the business impact of this company so far?
+### Competitors
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* **ChatGPT** By open AI
 
-* How is your company performing relative to competitors in the same field?
+* **BERT** and its varients by **GOOGLE**
 
-## Recommendations
+* **PaLM** by Google
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* **Mistral**
 
-* Why do you think that offering this product or service would benefit the company?
+* Whether in performance, efficiency, safety, or scalability, making the landscape of large language models highly competitive and dynamic.
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
